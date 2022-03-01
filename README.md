@@ -1,4 +1,4 @@
-# AutoFeed
+# Auto Feed
 
 ## 介绍 | Introduction
 
@@ -28,7 +28,6 @@ Minecraft Java Edition 1.18.x
 - 小麦 → 绵羊、牛、哞菇、山羊
 - 胡萝卜、马铃薯、甜菜根 → 猪
 - 小麦种子、南瓜种子、西瓜种子、甜菜种子 → 鸡
-***
 - wheat → sheep, cow, mooshroom, goat
 - carrot, potato, beetroot → pig
 - wheat seeds, pumpkin seeds, melon seeds, beetroot seeds → chicken
